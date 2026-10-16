@@ -1,6 +1,6 @@
 # Project Aegis
 
-Project Argus is a lightweight endpoint telemetry collector designed to gather laptop system metrics, network details, battery status, and disk storage information, then package these metrics into a structured payload and forward them to an API Gateway endpoint.
+Project Aegis is a lightweight endpoint telemetry collector designed to gather laptop system metrics, network details, battery status, and disk storage information, then package these metrics into a structured payload and forward them to an API Gateway endpoint.
 
 ## Architecture
 
